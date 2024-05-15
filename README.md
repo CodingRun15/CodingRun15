@@ -39,7 +39,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/harshkumar5" target="blank"><img src ="https://icons8.com/icon/13930/linkedin" height="30" width ="40"/>
+<a href="https://linkedin.com/in/linkedin.com/in/harshkumar5" target="blank"><i class="ci ci-linkedin ci-2x"></i>
 </a>
 <a href="https://www.leetcode.com/https://leetcode.com/u/harshkumar7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/harshkumar7/" height="30" width="40" /></a>
 </p>
