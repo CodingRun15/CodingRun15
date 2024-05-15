@@ -38,7 +38,6 @@
 
 - 📄 Know about my experiences </br>
 - [https://drive.google.com/file/d/1n-DwMgRiXhgvUJnzVYZDLzAha50k88gA/view?usp=drivesdk](https://drive.google.com/file/d/1n-DwMgRiXhgvUJnzVYZDLzAha50k88gA/view?usp=drivesdk)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/linkedin.com/in/harshkumar5" target="blank"><img align='center' src = './188185026-93637cf8-67e9-439a-b33a-6feba7b8bd21.png' width='30' height = '40'/>
