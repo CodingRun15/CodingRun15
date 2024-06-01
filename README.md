@@ -1,7 +1,10 @@
 # Profile
 <img width='100%' height='20%' align='center' src = 'https://github.com/CodingRun15/Profile/assets/154725027/da52b6b1-f9e9-4dbb-816e-eddaf425d51a'/>
 <p>
-<h1 align="center">Hi 👋, I'm Harsh Kumar</h1>
+<h1 align="center">I'm Harsh Kumar</h1>
+<div align='center' >
+<img width='50%' height='10%' src= 'https://github.com/CodingRun15/HarshKumar/assets/154725027/4da4899c-63e5-49f4-a956-1a191056955e'/>
+</div>
 </p>
 <h3 align="center">A passionate full stack developer from India</h3>
 <h3>Things I code with</h3>
