@@ -1,13 +1,15 @@
 # Profile
+<div align='center'>
+<img   object-fit='fill' src="https://readme-typing-svg.herokuapp.com?font=Anton&size=40&duration=5000&pause=500&color=FFFFFF&random=false&width=700&height=100&lines=Hi+There+👋+!!+;I+am+Harsh+Kumar+;A+passionate+full+stack+developer+;Proficient+in+MERN+and+SERN+stacks" alt="Typing SVG" />
+</div>
 <img width='100%' height='20%' align='center' src = 'https://github.com/CodingRun15/Profile/assets/154725027/da52b6b1-f9e9-4dbb-816e-eddaf425d51a'/>
 <p>
-<h1 align="center">I'm Harsh Kumar</h1>
+<h1 align="center" class="animate__bounce"></h1>
 <div align='center' >
 <img width='50%' height='10%' src= 'https://github.com/CodingRun15/HarshKumar/assets/154725027/4da4899c-63e5-49f4-a956-1a191056955e'/>
 </div>
 </p>
-<h3 align="center">A passionate full stack developer from India</h3>
-<h3>Things I code with</h3>
+<h2 align='center'>Things I code with</h2>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
@@ -23,9 +25,9 @@
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=codingrun15&label=Profile%20views&color=0e75b6&style=flat" alt="codingrun15" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=codingrun15&label=Profile%20views&color=0e75b6&style=flat" alt="codingrun15" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codingrun15" alt="codingrun15" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codingrun15" alt="codingrun15" /></a> </p>
 
 - 🔭 I’m currently working on [HealthHub, a health management service](https://github.com/CodingRun15/HealthHub)
 
@@ -41,19 +43,22 @@
 
 - 📄 Know about my experiences </br>
 - [https://drive.google.com/file/d/1n-DwMgRiXhgvUJnzVYZDLzAha50k88gA/view?usp=drivesdk](https://drive.google.com/file/d/1n-DwMgRiXhgvUJnzVYZDLzAha50k88gA/view?usp=drivesdk)
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h2 align="center">Connect with me:</h2>
+<p align="center">
 <a href="https://linkedin.com/in/linkedin.com/in/harshkumar5" target="blank"><img align='center' src = './188185026-93637cf8-67e9-439a-b33a-6feba7b8bd21.png' width='30' height = '40'/>
 </a>
 <a href="https://www.leetcode.com/https://leetcode.com/u/harshkumar7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/harshkumar7/" height="40" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://expressjs.com" target="_blank" color='white' rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<h2 align="center">Languages and Tools:</h2>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+</div>
+<h2 align='center'>Stats and Contributions</h2>
+<p align='center'><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=codingrun15&show_icons=true&locale=en&layout=compact" alt="codingrun15" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codingrun15&show_icons=true&locale=en&layout=compact" alt="codingrun15" /></p>
+<p align='center'>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codingrun15&show_icons=true&locale=en" alt="codingrun15" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codingrun15&show_icons=true&locale=en" alt="codingrun15" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codingrun15&" alt="codingrun15" /></p>
+<p align='center'><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codingrun15&" alt="codingrun15" /></p>
 
