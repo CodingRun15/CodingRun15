@@ -1,7 +1,5 @@
 # Profile
-<div align='center'>
-<img   object-fit='fill' src="https://readme-typing-svg.herokuapp.com?font=Anton&size=40&duration=5000&pause=500&color=FFFFFF&random=false&width=700&height=100&lines=Hi+There+👋+!!+;I+am+Harsh+Kumar+;A+passionate+full+stack+developer+;Proficient+in+MERN+and+SERN+stacks" alt="Typing SVG" />
-</div>
+<p align="center"><img align="center" src="https://readme-typing-svg.herokuapp.com?font=Anton&size=40&duration=5000&pause=500&color=FFFFFF&random=false&width=700&height=100&lines=Hi+There+👋+!!+;I+am+Harsh+Kumar+;A+passionate+full+stack+developer+;Proficient+in+MERN+and+SERN+stacks" alt="Typing SVG" /></p>
 <img width='100%' height='20%' align='center' src = 'https://github.com/CodingRun15/Profile/assets/154725027/da52b6b1-f9e9-4dbb-816e-eddaf425d51a'/>
 <p>
 <h1 align="center" class="animate__bounce"></h1>
